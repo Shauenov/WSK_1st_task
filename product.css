@@ -95,7 +95,7 @@
     .container {
         flex-direction: column;
         text-align: center;
-        height: 300vh
+        height: 100vh
     }
     .text-content, .image-content {
         max-width: 100%;
